@@ -1,5 +1,5 @@
 # July App
 
-## v0.0.1
+## v0.1
 
 ## Graph representation using python app
